@@ -1,4 +1,4 @@
-<img width="1917" height="874" alt="image" src="https://github.com/user-attachments/assets/32e2a434-2206-4aff-80cf-2a8c1cb77692" /># Library-Management-System-using-PHP-MySQL
+# Library-Management-System-using-PHP-MySQL
 
 A professional, web-based Library Management System built with **PHP, MySQL, and CSS (Glassmorphism design)**. This system features separate dashboards for Admins and Students, real-time fine calculation, and book tracking.
 
